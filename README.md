@@ -1,1 +1,5 @@
-A collection of HTML projects created while learning and practicing web development fundamentals. Each project focuses on improving core HTML skills, semantic structure, accessibility, and best practices.
+# Front-end Projects from Roadmap.sh
+This repository contains front-end projects built following the 
+[roadmap.sh](https://roadmap.sh/frontend/projects) front-end developer path
+## Project List
+[single-page-cv](https://roadmap.sh/projects/single-page-cv)
