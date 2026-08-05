@@ -1,0 +1,1 @@
+A collection of HTML projects created while learning and practicing web development fundamentals. Each project focuses on improving core HTML skills, semantic structure, accessibility, and best practices.
